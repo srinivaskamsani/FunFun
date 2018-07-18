@@ -1,0 +1,7 @@
+Unix commands
+-------------
+chmod 777 
+chown sri:sri
+
+ls -lart
+

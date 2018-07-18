@@ -5,3 +5,5 @@ chown sri:sri
 
 ls -lart
 
+mqsicvp
+mqsireportproperties
